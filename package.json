@@ -1,0 +1,22 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "A flashcard building application used for educational purposes that forces users to remember important parts of sentences.",
+  "main": "basicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JevinEyman/Flashcard-Generator.git"
+  },
+  "author": "Jevin Eyman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JevinEyman/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/JevinEyman/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^5.0.0"
+  }
+}
